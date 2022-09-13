@@ -1,1 +1,29 @@
 @charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+section#p1 {
+    background-image: url('imagens/background001.jpg');
+    padding: 500px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 85px;
+    text-align: center;
+}
+
+header > p {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
